@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Loi</h1>
-<p>![](https://komarev.com/ghpvc/?username=trathailoi&color=green&style=flat-square)</p>
 <h3 align="center">A continuous learner from Vietnam</h3>
+
+![](https://komarev.com/ghpvc/?username=trathailoi&color=green&style=flat-square)
 
 - 🌱 I’m currently learning **NestJs, Vue3, Typescript, PostgreSQL, Ruby on Rails**
 
