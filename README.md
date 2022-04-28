@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=trathailoi&color=green&style=flat-square" />
 </p>
-![](https://komarev.com/ghpvc/?username=trathailoi&color=green&style=flat-square)
 
 - 🌱 I’m currently learning **NestJs, Vue3, Typescript, PostgreSQL, Ruby on Rails**
 
