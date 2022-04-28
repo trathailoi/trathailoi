@@ -2,7 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=trathailoi&color=green&style=flat-square)
 
-![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&url=https://www.linkedin.com/in/trathailoi/)]
+<a href="https://www.linkedin.com/in/trathailoi/">
+    <img src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white">
+</a>
 
 <!--
 **trathailoi/trathailoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
