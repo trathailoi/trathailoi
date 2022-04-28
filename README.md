@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=trathailoi&color=green&style=flat-square)
 
-<a href="https://www.linkedin.com/in/trathailoi/">
+<a target="_blank" href="https://www.linkedin.com/in/trathailoi/">
     <img src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
 
