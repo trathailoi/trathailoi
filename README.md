@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=trathailoi&color=green&style=flat-square" />
 </p>
 
-- 🌱 I’m currently learning **NestJs, Vue3, Typescript, PostgreSQL, Ruby on Rails**
+- 🌱 I’m currently learning **NestJs, Vue3, Typescript, PostgreSQL**
 
 - 💬 Ask me about **NodeJs, Jest, Docker, Kubernetes, AWS, Jenkins, Github Action**
 
