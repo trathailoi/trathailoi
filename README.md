@@ -20,6 +20,8 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=trathailoi&color=green&style=flat-square" />
 </p>
 
+- 👀 I’m interested in learning new things for/and solving problems
+
 - 🌱 I’m currently learning **Ruby on Rails** and **React**
 
 - 💬 Ask me about **NodeJs, NestJs, Vue3, Jest, Cypress, Jenkins, Github Action, Docker, microservices, Kubernetes, AWS, Gitops, ArgoCD, Istio, ...**
