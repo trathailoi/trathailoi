@@ -14,6 +14,10 @@ I turn coffee into code and chaos into shipping products — these days mostly t
 - 📄 More at [linkedin.com/in/trathailoi](https://www.linkedin.com/in/trathailoi/)
 - ⚡ When I'm not debugging production at 2 AM, I'm making guitars weep and pianos sing
 
+<h3 align="left">Writing</h3>
+
+📝 [**Mastering AI in Software Development: Why Your Approach Matters More Than Your Tools**](https://medium.com/@trathailoi/mastering-ai-its-not-the-tools-it-s-you-b19e738363ac) — on Medium (6 min read), also on [LinkedIn](https://www.linkedin.com/pulse/mastering-ai-its-tools-you-l%E1%BB%A3i-tr%C3%A0-ogzrc/)
+
 <h3 align="left">Certifications</h3>
 
 All issued by **Anthropic** — each links to its verification page.
