@@ -14,14 +14,19 @@ I turn coffee into code and chaos into shipping products — these days mostly t
 - 📄 More at [linkedin.com/in/trathailoi](https://www.linkedin.com/in/trathailoi/)
 - ⚡ When I'm not debugging production at 2 AM, I'm making guitars weep and pianos sing
 
-<h3 align="left">What I'm building</h3>
+<h3 align="left">Certifications</h3>
 
-| | |
-|---|---|
-| [**linkedin-mcp**](https://github.com/pegasusheavy/linkedin-mcp) | MCP server for the LinkedIn API — profiles, posts, CV export |
-| [**harness-experimental**](https://github.com/trathailoi/harness-experimental) | Turn any repo into an agent-ready workspace for Claude Code, Codex, Cursor |
-| [**freellmapi**](https://github.com/trathailoi/freellmapi) | OpenAI-compatible proxy aggregating free-tier keys across ~14 providers |
-| [**rag-intro**](https://github.com/trathailoi/rag-intro) | A presentation introducing RAG concepts to software engineers |
+All issued by **Anthropic** — each links to its verification page.
+
+| Certificate | Issued | Verify |
+|---|---|---|
+| Claude Certified Architect — Foundations | Aug 2026 | [credly](https://www.credly.com/badges/1a8a32c8-d452-461f-8e1f-8e10184eaa4c/linked_in_profile) |
+| Building with the Claude API | May 2026 | [verify](https://verify.skilljar.com/c/6jbjozvpv7ge) |
+| Claude Code in Action | Mar 2026 | [verify](https://verify.skilljar.com/c/hcsk5uyhgppp) |
+| Introduction to Model Context Protocol | Apr 2026 | [verify](https://verify.skilljar.com/c/9a3oiujmy5uh) |
+| Introduction to Agent Skills | Apr 2026 | [verify](https://verify.skilljar.com/c/39o8z4cwfb5e) |
+| Claude Code 101 | May 2026 | [verify](https://verify.skilljar.com/c/xnrfcnzmv68o) |
+| Claude 101 | May 2026 | [verify](https://verify.skilljar.com/c/z8xuxywoiwih) |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
